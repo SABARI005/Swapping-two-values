@@ -28,7 +28,7 @@ print("Swapped values are:",num1,num2)
 
 ```
 ## output:
-![image.png]
+![Alt text](./image.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
